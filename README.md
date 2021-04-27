@@ -11,5 +11,8 @@ npm init svelte@next
 npx svelte-add tailwindcss --jit
 
 yarn
+chmod +x hotfix.sh
+./hotfix.sh
+
 yarn dev
 ```
